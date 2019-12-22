@@ -1,4 +1,4 @@
-// load the http module new
+// load the http module ne
 var http = require('http');
 
 // configure our HTTP server
